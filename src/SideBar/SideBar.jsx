@@ -4,6 +4,8 @@ import { IoIosHome } from "react-icons/io";
 import { FaCircleInfo } from "react-icons/fa6";
 import { MdHomeRepairService } from "react-icons/md";
 import { IoMdContact } from "react-icons/io";
+import Price from '../Price/Price';
+
 
 
 const SideBar = () => {
@@ -15,6 +17,7 @@ const SideBar = () => {
             <div className='item'><MdHomeRepairService/><span>Service</span></div>
             <div className='item'><IoMdContact/><span>Home</span></div>
             </div>
+            <Price/>
         </div>
     );
 };
