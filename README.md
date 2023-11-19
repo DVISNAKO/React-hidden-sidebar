@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+![Screenshot 2023-11-15 152037](https://github.com/DVISNAKO/React-hidden-sidebar/assets/106438454/e4701113-77a5-4f38-94b8-ffe88ca8dae4)
+
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
